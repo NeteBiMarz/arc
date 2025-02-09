@@ -1,0 +1,12 @@
+*
+!README.md
+!README_fa.md
+!location.json
+!docs/
+!docs/**
+!.github/
+!.github/**
+!src/
+!src/**
+!package.json
+!obfs-config.json
